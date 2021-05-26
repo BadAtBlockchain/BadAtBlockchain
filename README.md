@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BadAtBlockchain
+- Documenting my #100daysofcode, which specific focus on Solidity
+- I will be creating all my smart contracts and projects targetting the Harmony protocol
+- I plan to document my work on Twitter and Github, with both code and write ups of my progress
