@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @BadAtBlockchain
-- Solidity and Web3 dev
-- My frontend design is meh, but my contracts and web3 implementations work!
+- Solidity dev
