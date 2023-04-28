@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @BadAtBlockchain
-- Solidity dev
+- Wannabe securoor and optimizoor
+- Dabbling with Solidity in my spare time since 2020... still bad
